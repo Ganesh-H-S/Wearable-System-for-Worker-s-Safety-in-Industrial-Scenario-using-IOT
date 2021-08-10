@@ -1,1 +1,1 @@
-# Wearable-System-for-Worker-s-Safety-in-Industrial-Scenario-using-IOT
+# Final Year Project (VTU BE-ISE)
